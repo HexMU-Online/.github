@@ -2,4 +2,4 @@
 The next-generation MU Online private server.
 Join a vibrant community, experience balanced gameplay, and relive the adventure!
 
-Join us at [hexmu.online]([https://amongdemons.com/](https://hexmu.online/))
+Join us at [hexmu.online](https://hexmu.online/)
