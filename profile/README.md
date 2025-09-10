@@ -1,5 +1,5 @@
 # HexMU Online Private Server
-The next-generation MU Online private server.
-Join a vibrant community, experience balanced gameplay, and relive the adventure!
+Relive the classic MU Online experience
+with modern features, balanced gameplay, and a vibrant community.
 
 Join us at [hexmu.com](https://hexmu.com/)
